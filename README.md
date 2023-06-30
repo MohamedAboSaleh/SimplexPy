@@ -18,4 +18,5 @@ The initial directory for the file selection dialog is the "c:" drive, you can c
 The file "network1.txt" has a unique structure compared to the other files. In the original C implementation, it could be read as is, but in Python, our code has a different method of handling it, thus the file had to be altered for compatibility. The modified version of the file is included.
 
 network1.txt:
+
 ![image](https://github.com/MohamedAboSaleh/SimplexPy/assets/135134225/cb4b496c-61a9-4c13-b09c-3aed252e5c0c)
