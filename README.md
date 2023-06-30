@@ -6,7 +6,7 @@ The code provided is a version of the Simplex algorithm rewritten in Python, bas
 ## how to execute this code?
 ### There are two ways to execute this code:
 * by utilizing the file selection dialog to pick the desired file:
-* 
+  
 The initial directory for the file selection dialog is the "c:" drive, you can change it.
 
   ![image](https://github.com/MohamedAboSaleh/SimplexPy/assets/135134225/ed41e73b-bb1d-4108-b8eb-fed7b6b1b41d)
