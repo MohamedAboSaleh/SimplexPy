@@ -1,4 +1,4 @@
-![image](https://github.com/MohamedAboSaleh/SimplexPy/assets/135134225/2cb1b533-29a6-45a5-b72e-7dd95444fd61)# SimplexPy
+# SimplexPy
 Simplex algorithm is a widely-used mathematical technique for solving linear programming problems.
 
 The code provided is a version of the Simplex algorithm rewritten in Python, based on an initial implementation in C. It includes a class named OptList, which provides a representation of a list, and also overrides the default behavior of the +, -, and * operators for instances of the class.
